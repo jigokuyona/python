@@ -1,1 +1,2 @@
-Code from python class. Code is written in VSCode on MacOS.
+Code from python university class and some smaller personal projects to learn more. 
+Code is written in VSCode on MacOS.
